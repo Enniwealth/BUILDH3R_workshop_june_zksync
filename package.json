@@ -1,0 +1,15 @@
+{
+  "name": "buildh3r_june_zksync",
+  "version": "1.0.0",
+  "description": "## Introduction Hello, I'm excited to share the profound knowledge i got from the BUID3R workshop  Welcome to your first experience deploying a smart contract on the zkSync blockchain! This guide will walk you through the steps to build and deploy your first contract on zkSync and introduce you to the concept of Paymasters, which allow you to subsidize transaction fees using your own tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.5"
+  }
+}
